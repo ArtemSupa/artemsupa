@@ -32,7 +32,7 @@ kevin:
 
 ### 🏠 CodeAda — Ecosistema personal
 
-Mi marca e infraestructura personal: un **Raspberry Pi 4** corriendo Ubuntu como servidor casero, con **PM2**, **Nginx** y **Cloudflare Tunnel** exponiendo todo bajo subdominios propios (`codeada.dev`, `test.codeada.dev`, `panel.codeada.dev`, `completo.codeada.dev`). Ahí viven varios de mis proyectos activos: el panel de administración, el juego idle, y los servicios que voy montando.
+Mi marca e infraestructura personal: un **Raspberry Pi 4** corriendo Ubuntu como servidor casero, con **PM2**, **Nginx** y **Cloudflare Tunnel** exponiendo todo bajo subdominios propios (`codeada.dev`, `test.codeada.dev`, `panel.codeada.dev`). Ahí viven varios de mis proyectos activos: el panel de administración y los servicios que voy montando.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
