@@ -72,14 +72,9 @@ Mi marca e infraestructura personal: un **Raspberry Pi 4** corriendo Ubuntu como
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h4>💰 Split / Expense Tracker</h4>
       Bot de Telegram con OCR (Groq API) para registrar gastos desde boletas.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 Completo Idle Game</h4>
-      Juego idle/factory con temática de completo chileno.<br/>
-      <code>completo.codeada.dev</code>
     </td>
   </tr>
 </table>
