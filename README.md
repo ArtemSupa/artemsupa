@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Kevin 👋</h1>
+[<h1 align="center">¡Hola! Soy Kevin 👋</h1>
 <h3 align="center">Full Stack Developer | Santiago, Chile 🇨🇱</h3>
 
 <p align="center">
@@ -90,3 +90,4 @@
 <p align="center">
   <i>Hecho con ☕ desde El Bosque, Santiago — parte de <a href="https://codeada.dev">CodeAda</a></i>
 </p>
+](https://www.linkedin.com/in/kevin-luis-moreno-cuevas-608a3910a/)
