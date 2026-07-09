@@ -30,7 +30,18 @@ kevin:
 
 ---
 
-### 🚀 Proyectos destacados
+### 🏠 CodeAda — Ecosistema personal
+
+Mi marca e infraestructura personal: un **Raspberry Pi 4** corriendo Ubuntu como servidor casero, con **PM2**, **Nginx** y **Cloudflare Tunnel** exponiendo todo bajo subdominios propios (`codeada.dev`, `test.codeada.dev`, `panel.codeada.dev`, `completo.codeada.dev`). Ahí viven varios de mis proyectos activos: el panel de administración, el juego idle, y los servicios que voy montando.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+</p>
+
+### 🚀 Otros proyectos destacados
 
 <table>
   <tr>
@@ -56,8 +67,7 @@ kevin:
     </td>
     <td width="50%" valign="top">
       <h4>🖥️ CodeAda Panel</h4>
-      Dashboard custom para administrar mi servidor personal.<br/>
-      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      Dashboard de administración para mi servidor — parte del ecosistema CodeAda de arriba.<br/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
   </tr>
